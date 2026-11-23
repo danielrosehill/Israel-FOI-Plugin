@@ -1,9 +1,21 @@
 {
   "name": "israel-foi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Israeli Freedom of Information (חוק חופש המידע) requests: pick the right public authority, draft the request in Hebrew, file it through the authority's own channel, track the statutory deadline. Starts with the Jerusalem Municipality.",
-  "author": {"name": "Daniel Rosehill", "url": "https://github.com/danielrosehill"},
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
   "repository": "https://github.com/danielrosehill/Israel-FOI-Plugin",
   "license": "MIT",
-  "keywords": ["israel", "foi", "freedom-of-information", "hofesh-hameida", "jerusalem", "municipality", "hebrew", "transparency"]
+  "keywords": [
+    "israel",
+    "foi",
+    "freedom-of-information",
+    "hofesh-hameida",
+    "jerusalem",
+    "municipality",
+    "hebrew",
+    "transparency"
+  ]
 }

@@ -32,6 +32,7 @@ filing route. Check it first: the document may already be published.
 
 ## Before filing
 
+0. Check what is already public: `israel-osint:jerusalem-building-file-lookup` lists permit sub-files, renewals, violation files and applicants for a gush/helka (metadata only). Ask for the specific sub-files it shows, e.g. a `חידוש היתר` renewal.
 1. Pin down identifiers: building file no. (תיק בניין), permit no. + issue date,
    gush/helka, address. A city building file can usually be found on the municipality's planning
    site by address or gush/helka.
