@@ -5,7 +5,7 @@ description: File a Freedom of Information request (בקשת חופש מידע) 
 
 # Jerusalem Municipality FOI request
 
-Walked through live and filed on 2026-11-23 (request no. REDACTED). Read
+Walked through live and filed on 2026-11-23. Read
 `references/israel-foi-basics.md` (plugin root) first: it covers which authority
 holds what, the s.20 direct-inspection caveat, fees and the deadline.
 
