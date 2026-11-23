@@ -1,6 +1,6 @@
 {
   "name": "israel-foi",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Israeli Freedom of Information (חוק חופש המידע) requests: pick the right public authority, draft the request in Hebrew, file it through the authority's own channel, track the statutory deadline. Starts with the Jerusalem Municipality.",
   "author": {
     "name": "Daniel Rosehill",

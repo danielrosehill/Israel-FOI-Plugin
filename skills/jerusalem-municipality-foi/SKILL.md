@@ -86,6 +86,7 @@ number, postcode. Then `המשך`.
 - Confirmation: "הבקשה נשלחה בהצלחה / מספר בקשה: <n>" plus a link to view requests.
 - The fee is billed **afterwards**: the unit sends a payment notice by email or SMS, or a
   bank voucher, or you pay by phone through the city payment centre. The user pays.
+- Follow up with `jerusalem-foi-status` (סטטוס דיגיטל portal). An FOI request starts at `ממתין לבדיקת האגף`, unit `מזכיר העיר`.
 - Record: request number, date, the full-request PDF and its sha256, the form
   summary, and the due date (receipt + 30 days). Chase after day 30 by email,
   quoting the request number.
